@@ -31,7 +31,7 @@ A simple and secure password generator built with vanilla JavaScript, HTML, and 
 
 ## Live Demo
 
-[View Live Demo](https://your-vercel-url.vercel.app)
+[https://password-generator-naitik.vercel.app/](https://password-generator-naitik.vercel.app/)
 
 ## Installation
 
