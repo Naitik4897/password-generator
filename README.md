@@ -37,7 +37,7 @@ A simple and secure password generator built with vanilla JavaScript, HTML, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/Naitik4897/password-generator
    ```
 
 2. Navigate to the project directory:
